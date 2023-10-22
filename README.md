@@ -7,3 +7,8 @@
 - pgsql
 - singal
 - docker
+
+  ## Architecture
+
+  - cqrs & mediator pattern
+  - clean Architech
