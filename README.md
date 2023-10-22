@@ -8,7 +8,7 @@
 - singal
 - docker
 
-  ## Architecture
+## Architecture
 
-  - cqrs & mediator pattern
-  - clean Architech
+- cqrs & mediator pattern
+- clean Architech
