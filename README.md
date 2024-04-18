@@ -7,7 +7,7 @@
 | Họ tên                | MSSV       |
 | --------------------- | ---------- |
 | Võ Thương Trường Nhơn | 2080600542 |
-| Phạm Anh Tuấn         | n/a        |
+| Phạm Anh Tuấn         | 2011068576 |
 | Đặng Đức Dũng         | n/a        |
 
 ## Công nghệ chính
